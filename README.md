@@ -26,6 +26,8 @@ After working as a software developer at Vertrical for almost 2 years, In my nex
 - 💬 Ping me [here](https://www.linkedin.com/in/vikrantaroraa/)
 - [Portfolio](https://vikrantaroraa.netlify.app/)
 
+And hey, don't forget to checkout my component library [canary-design](https://canary-design.netlify.app/).
+
 **Languages and Tools:**  
 
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
