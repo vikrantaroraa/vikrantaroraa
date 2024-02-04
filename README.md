@@ -19,7 +19,7 @@ A Software Engineer based in North India.
 
 I am a full stack developer with 2 years of experience, where I have contributed to the frontend for the most part and worked heavily in React , TypeScript , GraphQL , Storybook , Jest & Gatsby in the frontend and also did backend in Nest.js.
 
-After working as a software developer at Vertrical for almost 2 years, In my next venture now, I am looking forward to joining a cool product startup and build great products. If you are product startup building cool tech products, please feel free to reach out. I would love to connect and work together.
+After working as a software developer at Vertrical for almost 2 years, In my next venture now, I am looking forward to joining amazing product startup and building great products. If you are product startup building amazing tech products, please feel free to reach out. I would love to connect and work together.
 
 - I mostly work in the frontend but can also contribute to backend in JavaScript and Python.
 
