@@ -19,12 +19,11 @@ A Software Engineer based in North India.
 
 I am a full stack developer with 2 years of experience, where I have contributed to the frontend for the most part and worked heavily in React , TypeScript , GraphQL , Storybook , Jest & Gatsby in the frontend and also did backend in Node.js.
 
-After working as a software developer at Vertrical for almost 2 years, I joined another startup as a frontend developer. Now, I am looking forward to joining more product startups and building great products. If you are product startup building nice tech products, please feel free to reach out. I would love to connect and work together.
+After working as a software developer at Vertrical for almost 2 years, Now I am looking forward to joining more product startups and building great products. If you are product startup building nice tech products, please feel free to reach out. I would love to connect and work together.
 
 - I mostly work in the frontend but can also contribute to backend in JavaScript and Python.
 
 - 💬 Ping me [here](https://www.linkedin.com/in/vikrantaroraa/)
-- [Portfolio](https://vikrantaroraa.netlify.app/)
 
 And hey, don't forget to checkout my component library [canary-design](https://canary-design.netlify.app/).
 
